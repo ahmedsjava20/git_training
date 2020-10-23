@@ -1,1 +1,3 @@
 I am bob. Editing using vi. Editing using notepad.
+Adding a new line to see diff
+adding a third line
